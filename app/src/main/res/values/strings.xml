@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShowMeContacts</string>
+    <string name="contact_image">contact_image</string>
+</resources>
